@@ -1,0 +1,4 @@
+/home/karol/kolokwium_git/Zadanie6/build/CMakeFiles/rebuild_cache.dir
+/home/karol/kolokwium_git/Zadanie6/build/CMakeFiles/edit_cache.dir
+/home/karol/kolokwium_git/Zadanie6/build/CMakeFiles/testStudent.dir
+/home/karol/kolokwium_git/Zadanie6/build/CMakeFiles/libtest.dir

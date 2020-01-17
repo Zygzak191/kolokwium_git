@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/karol/kolokwium_git/Zadanie5/zrodlo/address.cpp
+string
+-
+
+/home/karol/kolokwium_git/Zadanie5/zrodlo/address.h
+stdio.h
+-
+
+/home/karol/kolokwium_git/Zadanie5/zrodlo/employee.cpp
+address.h
+/home/karol/kolokwium_git/Zadanie5/zrodlo/address.h
+
+/home/karol/kolokwium_git/Zadanie5/zrodlo/employee.h
+
+/home/karol/kolokwium_git/Zadanie5/zrodlo/main.cpp
+employee.h
+/home/karol/kolokwium_git/Zadanie5/zrodlo/employee.h
+address.h
+/home/karol/kolokwium_git/Zadanie5/zrodlo/address.h
+
